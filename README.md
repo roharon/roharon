@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Aaron stats](https://github-readme-stats.vercel.app/api?username=roharon&show_icons=true&theme=dracula)
+![Aaron's Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=roharon&layout=compact&theme=dracula)
 <!--
 **roharon/roharon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
