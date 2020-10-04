@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=roharon)
 
 ![Aaron stats](https://github-readme-stats.vercel.app/api?username=roharon&show_icons=true&theme=dracula&count_private=true)
 <!--
