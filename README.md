@@ -7,6 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rails ActiveRecord에서 after_*_commit이 의도대로 동작하지 않나요?](https://blog.aaronroh.org/144)
+- [Redis 7.0.0 부터 CLI 내에서 명령어의 세부 설명을 확인할 수 있습니다](https://blog.aaronroh.org/143)
+- [git merge conflict가 발생하면 어떻게 하고 계시나요?](https://blog.aaronroh.org/142)
+- [AWS 서버리스 단축URL 서비스 만들기 - 4](https://blog.aaronroh.org/141)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
