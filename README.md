@@ -36,11 +36,17 @@
  
   <!-- GitHub section -->
 
+
+## My Language
+
+![](https://ghbadgeapp.azurewebsites.net/api/users/roharon)
+  
+
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roharon" alt="Aaron's LangStat" />
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=roharon&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Aaron's language" height="192px"  width="500px"/>
+<!--   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=roharon&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Aaron's language" height="192px"  width="500px"/> -->
 </div>
 
 <br/>
