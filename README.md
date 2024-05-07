@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roharon&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-### Blogs posts
+### Articles
 <!-- BLOG-POST-LIST:START -->
 - [Rails Core Classes Method Lookup Changes: A Deep Dive into Include vs Prepend](https://dev.to/roharon/rails-core-classes-method-lookup-changes-a-deep-dive-into-include-vs-prepend-3c26)
 <!-- BLOG-POST-LIST:END -->
