@@ -1,6 +1,6 @@
 Aaron Roh - Software Engineer
 
-<a href="https://linkedin.com/aaronroh">
+<a href="https://linkedin.com/in/aaronroh">
     <img src="https://raw.githubusercontent.com/roharon/roharon/master/images/linkedin.png" height="30" alt="https://linkedin.com/aaronroh"/>
 </a>
 <a href="https://dev.to/roharon">
